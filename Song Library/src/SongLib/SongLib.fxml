@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.ColorAdjust?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="508.0" prefWidth="675.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="SongLib.SongLibController">
+   <children>
+      <SplitPane dividerPositions="0.5" orientation="VERTICAL" prefHeight="508.0" prefWidth="675.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="177.0" prefWidth="689.0" style="-fx-background-color: lightgreen;">
+               <children>
+                  <Button fx:id="editButton" layoutX="308.0" layoutY="196.0" mnemonicParsing="false" onAction="#editButton" prefHeight="27.0" prefWidth="58.0" text="edit">
+                     <font>
+                        <Font name="Gill Sans" size="13.0" />
+                     </font></Button>
+                  <Label layoutX="315.0" layoutY="47.0" prefHeight="17.0" prefWidth="29.0" text="Title" textAlignment="RIGHT" />
+                  <Label layoutX="310.0" layoutY="78.0" prefHeight="17.0" prefWidth="36.0" text="Artist" textAlignment="RIGHT" />
+                  <Label layoutX="306.0" layoutY="110.0" prefHeight="17.0" prefWidth="36.0" text="Album" />
+                  <Label layoutX="315.0" layoutY="142.0" text="Year" />
+                  <TextField fx:id="Title" layoutX="351.0" layoutY="42.0" />
+                  <TextField fx:id="Year" layoutX="351.0" layoutY="137.0" />
+                  <TextField fx:id="Album" layoutX="351.0" layoutY="105.0" />
+                  <TextField fx:id="Artist" layoutX="351.0" layoutY="73.0" />
+                  <Label layoutX="124.0" layoutY="91.0" text="Song Library">
+                     <font>
+                        <Font name="Futura Medium" size="24.0" />
+                     </font>
+                  </Label>
+                  <Button fx:id="saveButton" layoutX="533.0" layoutY="65.0" mnemonicParsing="false" onAction="#saveButton" prefHeight="32.0" prefWidth="58.0" text="Save" visible="false" />
+                  <Button fx:id="cancelButton" layoutX="534.0" layoutY="98.0" mnemonicParsing="false" onAction="#cancelButton" prefHeight="32.0" prefWidth="58.0" text="Cancel" visible="false" />
+                  <Button fx:id="SaveEditButton" layoutX="532.0" layoutY="55.0" mnemonicParsing="false" onAction="#SaveEdit" prefHeight="26.0" prefWidth="58.0" text="Save" visible="false" />
+                  <Button fx:id="addButton" layoutX="567.0" layoutY="196.0" mnemonicParsing="false" onAction="#addButton" prefHeight="27.0" prefWidth="58.0" text="add">
+                     <font>
+                        <Font name="Gill Sans" size="13.0" />
+                     </font>
+                  </Button>
+                  <Button fx:id="deleteButton" layoutX="43.0" layoutY="196.0" mnemonicParsing="false" onAction="#deleteButton" prefHeight="27.0" prefWidth="58.0" text="delete">
+                     <font>
+                        <Font name="Gill Sans" size="13.0" />
+                     </font>
+                  </Button>
+               </children>
+               <effect>
+                  <ColorAdjust />
+               </effect>
+            </AnchorPane>
+            <ListView fx:id="SongList" onMouseClicked="#ListViewSelectedNode" prefHeight="299.0" prefWidth="673.0" style="-fx-background-color: black;" />
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
