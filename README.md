@@ -1,9 +1,11 @@
 <h1>My Projects</h1>
 
 <h2>About Me:</h2>
-<img width="300" alt="image" src="https://github.com/ishanirantar/MyProjects/assets/79679306/dcc2d34e-e9a0-4c30-bc54-21c35922273e">
 
 Hi! My name is Isha Nirantar and I am currently a rising senior attending Rutgers University School of Arts and Sciences in the Honors Program. I am pursuing a major in Computer Science with a minor in data science and cognitive science. As I near the end of my studies upon graduation in May 2024, I am eager to begin a career in Software Development, Machine Learning, Artificial Intelligence, and Data Science!
+<p align="center">
+  <img width="300" alt="image" src="https://github.com/ishanirantar/MyProjects/assets/79679306/dcc2d34e-e9a0-4c30-bc54-21c35922273e">
+</p>
 
 <h2>Software Development Projects:</h2>
 
