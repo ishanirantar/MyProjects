@@ -16,5 +16,5 @@ Hi! My name is Isha Nirantar and I am currently a rising senior attending Rutger
 
 <h2>Certifications/Programs</h2>
 
-- [JPMorgan Software Engineering Virtual Experience Program]([https://www.credly.com/badges/1b032661-f7bf-44be-8bca-442eaff9245b/linked_in_profile](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_kPjdsp9b72WJAoqfp_1685043674637_completion_certificate.pdf)https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_kPjdsp9b72WJAoqfp_1685043674637_completion_certificate.pdf])
-- [Python for Data Science, AI, and Development Certification]([https://coursera.org/share/4eed71d381b872a93bd6467602f29c3b])
+- [JPMorgan Software Engineering Virtual Experience Program](https://www.credly.com/badges/1b032661-f7bf-44be-8bca-442eaff9245b/linked_in_profile](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_kPjdsp9b72WJAoqfp_1685043674637_completion_certificate.pdf)https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_kPjdsp9b72WJAoqfp_1685043674637_completion_certificate.pdf)
+- [Python for Data Science, AI, and Development Certification](https://coursera.org/share/4eed71d381b872a93bd6467602f29c3b)
