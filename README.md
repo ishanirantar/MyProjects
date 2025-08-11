@@ -2,7 +2,9 @@
 
 <h2>About Me:</h2>
 
-Hi! My name is Isha Nirantar and I am currently a rising senior attending Rutgers University School of Arts and Sciences in the Honors Program. I am pursuing a major in Computer Science with a minor in data science and cognitive science. As I near the end of my studies upon graduation in May 2024, I am eager to begin a career in Software Development, Machine Learning, Artificial Intelligence, and Data Science!
+Hi! My name is Isha Nirantar and I am currently a Software Development Engineer in the Technology Analyst Program at Fiserv. Currently at Fiserv, I work on enterprise-grade online bill payment UIs and APIs for major, high-traffic banking applications (e.g., Bank of America), using C#, ASP.NET MVC (.NET Framework), Razor Views, jQuery, and custom JavaScript/CSS. 
+I’m a fast, eager learner passionate about cutting-edge software development in fintech, artificial intelligence, and machine learning, continually working to apply new knowledge to deliver impactful, high-quality solutions.
+
 <p align="center">
   <img width="300" alt="image" src="https://github.com/ishanirantar/MyProjects/assets/79679306/dcc2d34e-e9a0-4c30-bc54-21c35922273e">
 </p>
